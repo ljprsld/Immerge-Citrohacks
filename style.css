@@ -1,9 +1,0 @@
-.immerge, .immerge * { box-sizing: border-box; }.immerge {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
- .immerge2 {color: #000000; text-align: center; font: 700 48px 'DM Sans', sans-serif; position: absolute; left: 102px;top: 412px; display: flex;align-items: center;justify-content: center}
- .button {background: #5caaab; border-radius: 16px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 345px; position: absolute; left: 24px;top: 630px;}
- .button2 {color: var(--others-white, #ffffff); text-align: center; font: 400 18px 'Inter', sans-serif; position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
- .button3 {background: #076666; border-radius: 16px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 345px; position: absolute; left: 24px;top: 704px;}
- .logo-1 {width: 257px; height: 267px; position: absolute; left: 76px;top: 164px;}
- .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
- .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
- .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
