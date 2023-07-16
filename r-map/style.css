@@ -1,0 +1,76 @@
+.map, .map * { box-sizing: border-box; }.map {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
+ .frame {background: #ffffff; width: 600px; height: 400px; position: absolute; left: -5px;top: 600px; transform-origin: 0 0; transform: rotate(-90deg) scale(1, 1); overflow: hidden;}
+ .landcover {position: absolute; left: 262.35px;top: -99.93px; overflow: visible;}
+ .road-network-casing {position: absolute; left: -25.82px;top: -388.91px; overflow: visible;}
+ .road-network {position: absolute; left: -25.82px;top: -388.91px; overflow: visible;}
+ .building {position: absolute; left: -15.48px;top: -9.34px; overflow: visible;}
+ .border-other-dash {position: absolute; left: 221.22px;top: -393.78px; overflow: visible;}
+ .road {position: absolute; inset: 0;}
+ .derringer-drive {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 558.55px;top: 73.02px; transform-origin: 0 0; transform: rotate(80.386deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .beadle-drive {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 77.44px;top: 163.04px; transform-origin: 0 0; transform: rotate(-1.625deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .barker-hill-rd {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 256.2px;top: 54.44px; transform-origin: 0 0; transform: rotate(86.92deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .grace-place {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 156.45px;top: 44.57px; transform-origin: 0 0; transform: rotate(87.058deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .walkerton-drive {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 360.32px;top: 263.12px; transform-origin: 0 0; transform: rotate(49.399deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .wilcox-place {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 59.29px;top: 21.06px; transform-origin: 0 0; transform: rotate(86.924deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .bessbrook-drive {color: var(--road, #6b7a85); text-align: center; font: 400 9.09px 'Inter', sans-serif; position: absolute; left: 466.37px;top: 261.05px; transform-origin: 0 0; transform: rotate(55.886deg) scale(1, 1); display: flex;align-items: center;justify-content: center}
+ .frame-2 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 522px;top: 305px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .component-1 {flex-shrink: 0; width: 29px; height: 29px; position: absolute; left: 0px;top: 0px;}
+ .ellipse-1 {background: var(--purple, #9747ff); border-radius: 50%; width: 29px; height: 29px; position: absolute; left: 0px;top: 0px;}
+ .group-5 {position: absolute; left: 4.5px;top: 5.5px; overflow: visible;}
+ .frame-3 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 242px;top: 64px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .group-52 {position: absolute; left: 4.5px;top: 5.5px; overflow: visible;}
+ .frame-4 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 162px;top: 337px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .group-53 {position: absolute; left: 4.5px;top: 5.5px; overflow: visible;}
+ .group-8 {position: absolute; left: 521px;top: 321px; transform: translate(-4px, 0px); overflow: visible;}
+ .group-7 {position: absolute; left: 317px;top: 191px; transform: translate(-4px, 0px); overflow: visible;}
+ .group-9 {width: 29px; height: 29px; position: absolute; left: 314px;top: 176px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .frame-7 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .frame-12 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 446px;top: 335px; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .ellipse-4 {background: #86d66a; border-radius: 50%; flex-shrink: 0; width: 29px; height: 29px; position: relative;}
+ .group-11 {flex-shrink: 0; position: absolute; left: 4px;top: 4px; overflow: visible;}
+ .group-13 {width: 20px; height: 20px; position: absolute; left: 434px;top: 237px; transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .ellipse-5 {background: #3872ca; border-radius: 50%; width: 20px; height: 20px; position: absolute; left: 0px;top: 0px;}
+ .ellipse-52 {background: #3872ca; border-radius: 50%; width: 20px; height: 20px; position: absolute; left: 0px;top: 0px; filter: blur(2px);}
+ .group-14 {width: 20px; height: 20px; position: absolute; left: 307px;top: 294px; transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .group-15 {width: 20px; height: 20px; position: absolute; left: 182px;top: 95px; transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .group-16 {width: 20px; height: 20px; position: absolute; left: 59px;top: 375px; transform-origin: 0 0; transform: rotate(90deg) scale(1, 1);}
+ .frame-1 {background: #5caaab; border-radius: 20px 20px 0px 0px; width: 393px; height: 201px; position: absolute; left: 0px;top: 573px; overflow: hidden;}
+ .rectangle-5 {background: #f5f5f5; border-radius: 10px; width: 367px; height: 43px; position: absolute; left: 14px;top: 22px;}
+ .rectangle-62 {background: #f5f5f5; border-radius: 24px; width: 98px; height: 4px; position: absolute; left: calc(50% - 48.5px);top: 9px;}
+ .ic-round-search {position: absolute; left: 23px;top: 32px; overflow: visible;}
+ .fluent-my-location-16-regular {position: absolute; left: 345px;top: 29px; overflow: visible;}
+ .search {color: #787878; text-align: center; font: var(--body-2, 400 13px 'Inter', sans-serif); position: absolute; left: 69px;top: 36px; display: flex;align-items: center;justify-content: center}
+ .frame-15 {display: flex; flex-direction: row; gap: 32px; align-items: flex-start; justify-content: flex-start; width: 341px; position: absolute; left: 40px;top: 101px;}
+ .frame-5 {display: flex; flex-direction: column; gap: 8px; align-items: center; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .group-6 {flex-shrink: 0; width: 50px; height: 50px; position: static;}
+ .component-12 {width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .ellipse-12 {background: var(--purple, #9747ff); border-radius: 50%; width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .group-54 {position: absolute; left: 7.76px;top: 9.48px; overflow: visible;}
+ .shelter {color: #ffffff; text-align: center; font: 400 14px 'DM Sans', sans-serif; position: relative; display: flex;align-items: center;justify-content: center}
+ .frame-6 {display: flex; flex-direction: column; gap: 8px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 53px; position: relative;}
+ .group-82 {flex-shrink: 0; position: relative; overflow: visible;}
+ .medical {color: #ffffff; text-align: center; font: 400 14px 'DM Sans', sans-serif; position: relative; width: 114px; display: flex;align-items: center;justify-content: center}
+ .frame-72 {display: flex; flex-direction: column; gap: 8px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 59px; position: relative;}
+ .group-10 {flex-shrink: 0; width: 50px; height: 50px; position: static;}
+ .group-83 {width: 50px; height: 50px; position: absolute; left: 4.5px;top: 0px;}
+ .ellipse-23 {background: #ff965b; border-radius: 50%; width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .vector253 {position: absolute; left: 15.5px;top: 11px; overflow: visible;}
+ .legal-aid {color: #ffffff; text-align: center; font: 400 14px 'DM Sans', sans-serif; position: relative; width: 72px; display: flex;align-items: center;justify-content: center}
+ .frame-14 {display: flex; flex-direction: column; gap: 8px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 53px; position: relative;}
+ .frame-13 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .group-12 {flex-shrink: 0; width: 50px; height: 50px; position: static;}
+ .ellipse-42 {background: #86d66a; border-radius: 50%; width: 50px; height: 50px; position: absolute; left: 0px;top: 0px;}
+ .group-112 {position: absolute; left: 9px;top: 9px; overflow: visible;}
+ .organizations {color: #ffffff; text-align: center; font: 400 14px 'DM Sans', sans-serif; position: relative; width: 99px; display: flex;align-items: center;justify-content: center}
+ .nav-bar {background: #ffffff; display: flex; flex-direction: column; gap: 0px; align-items: flex-start; justify-content: flex-start; height: 616px; position: absolute; left: -1px;top: 774px; overflow: hidden;}
+ .vector-1 {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-1 {flex-shrink: 0; width: 393px; height: 78px; position: static;}
+ .nav-bar2 {width: 393px; height: 78px; position: absolute; left: 0px;top: 0px;}
+ .nav-bar3 {width: 393px; height: 77px; position: absolute; left: 0px;top: 0px;}
+ .home {position: absolute; left: 42px;top: 28px; overflow: visible;}
+ .map2 {position: absolute; left: 140px;top: 27px; overflow: visible;}
+ .chat {position: absolute; left: 231px;top: 27px; overflow: visible;}
+ .profile {position: absolute; left: 331px;top: 27px; overflow: visible;}
+ .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
+ .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
+ .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
