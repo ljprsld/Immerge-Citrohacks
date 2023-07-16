@@ -1,0 +1,19 @@
+.immerge, .immerge * { box-sizing: border-box; }.immerge {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
+ .immerge2 {color: #000000; text-align: center; font: 700 48px 'DM Sans', sans-serif; position: absolute; left: 126px;top: 123px; display: flex;align-items: center;justify-content: center}
+ .button {background: #5caaab; border-radius: 16px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 161px; height: 49px; position: absolute; left: 26px;top: 500px;}
+ .button2 {color: var(--others-white, #ffffff); text-align: center; font: var(--body-large-bold, 700 16px/140% 'Urbanist', sans-serif); position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .button3 {background: #076666; border-radius: 16px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 161px; height: 49px; position: absolute; left: 207px;top: 500px;}
+ .button4 {color: var(--others-white, #ffffff); text-align: center; font: 700 16px/140% 'Inter', sans-serif; position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .logo-1 {width: 78px; height: 91px; position: absolute; left: 55px;top: 108px;}
+ .i-m-here-to {color: #000000; text-align: left; font: 600 25px/140% 'Inter', sans-serif; position: absolute; left: 133px;top: 251px; width: 129px; height: 37px; display: flex;align-items: center;justify-content: flex-start}
+ .frame-18 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 25px;top: 312px;}
+ .rectangle-65 {background: #f5f5f5; border-radius: 10px; flex-shrink: 0; width: 161px; height: 172px; position: relative;}
+ .helping-hand-1 {flex-shrink: 0; width: 111px; height: 111px; position: absolute; left: 25px;top: 30px;}
+ .frame-19 {display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 207px;top: 312px;}
+ .rectangle-66 {background: #f5f5f5; border-radius: 10px; flex-shrink: 0; width: 161px; height: 172px; position: relative;}
+ .help-1-1 {flex-shrink: 0; width: 111px; height: 111px; position: absolute; left: 25px;top: 30px;}
+ .help-immigrants-by-listing-services-or-basic-necessities-you-can-provide {color: #000000; text-align: center; font: 400 14px/140% 'Inter', sans-serif; position: absolute; left: 29px;top: 562px; width: 155px; height: 74px; display: flex;align-items: center;justify-content: center}
+ .view-available-listings-and-resources-nearby {color: #000000; text-align: center; font: 400 14px/140% 'Inter', sans-serif; position: absolute; left: 210px;top: 554px; width: 155px; height: 74px; display: flex;align-items: center;justify-content: center}
+ .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
+ .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
+ .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
