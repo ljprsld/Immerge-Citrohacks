@@ -1,0 +1,56 @@
+.listing, .listing * { box-sizing: border-box; }.listing {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
+ .nav-bar {background: #ffffff; display: flex; flex-direction: column; gap: 0px; align-items: flex-start; justify-content: flex-start; height: 78px; position: absolute; left: 0px;top: 774px;}
+ .vector-1 {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-1 {flex-shrink: 0; width: 393px; height: 78px; position: static;}
+ .nav-bar2 {width: 393px; height: 78px; position: absolute; left: 0px;top: 0px;}
+ .nav-bar3 {width: 393px; height: 77px; position: absolute; left: 0px;top: 0px;}
+ .home {position: absolute; left: 42px;top: 28px; overflow: visible;}
+ .map {position: absolute; left: 140px;top: 27px; overflow: visible;}
+ .chat {position: absolute; left: 231px;top: 27px; overflow: visible;}
+ .profile {position: absolute; left: 331px;top: 27px; overflow: visible;}
+ .amelia-h {color: #000000; text-align: left; font: 700 25px 'DM Sans', sans-serif; position: absolute; left: 148px;top: 79px; display: flex;align-items: center;justify-content: flex-start}
+ .can-provide {color: #000000; text-align: left; font: var(--body, 400 18px 'Inter', sans-serif); position: absolute; left: 26px;top: 264px;}
+ .requests {color: #000000; text-align: left; font: var(--body, 400 18px 'Inter', sans-serif); position: absolute; left: 26px;top: 355px;}
+ .rectangle-63 {border-radius: 0px; position: absolute; left: 26px;top: 396px; overflow: visible;}
+ .clear-1 {width: 14px; height: 14px; position: absolute; left: 336px;top: 420px;}
+ .clear-2 {width: 14px; height: 14px; position: absolute; left: 336px;top: 473px;}
+ .clear-3 {width: 14px; height: 14px; position: absolute; left: 336px;top: 523px;}
+ .button {background: #5caaab; border-radius: 10px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 150px; height: 23px; position: absolute; left: 142px;top: 123px;}
+ .i-want-help {color: var(--others-white, #ffffff); text-align: right; font: 500 15px 'Inter', sans-serif; position: relative; flex: 1; display: flex;align-items: center;justify-content: flex-end}
+ .button2 {background: #5caaab; border-radius: 10px; padding: 18px 5px 18px 5px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 45px; height: 9px; position: absolute; left: 191px;top: 413px;}
+ .i-want-help2 {color: var(--others-white, #ffffff); text-align: center; font: 500 5px 'Inter', sans-serif; position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .button3 {background: #5caaab; border-radius: 10px; padding: 18px 5px 18px 5px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 45px; height: 9px; position: absolute; left: 240px;top: 413px;}
+ .button4 {background: #adadad; border-radius: 10px; padding: 18px 5px 18px 5px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 37px; height: 9px; position: absolute; left: 237px;top: 464px;}
+ .button5 {background: #adadad; border-radius: 10px; padding: 18px 5px 18px 5px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 37px; height: 9px; position: absolute; left: 217px;top: 518px;}
+ .button6 {background: #5caaab; border-radius: 10px; padding: 18px 5px 18px 5px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 45px; height: 9px; position: absolute; left: 188px;top: 464px;}
+ .button7 {background: #5caaab; border-radius: 10px; padding: 18px 5px 18px 5px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 45px; height: 9px; position: absolute; left: 167px;top: 518px;}
+ .button8 {background: #ffffff; border-radius: 10px; border-style: solid; border-color: #5caaab; border-width: 1px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 346px; height: 45px; position: absolute; left: 22px;top: 698px;}
+ .i-want-help3 {color: #076666; text-align: center; font: var(--body, 400 18px 'Inter', sans-serif); position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .button9 {background: #5caaab; border-radius: 10px; border-style: solid; border-color: #5caaab; border-width: 1px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 346px; height: 45px; position: absolute; left: 21px;top: 637px;}
+ .i-want-help4 {color: #ffffff; text-align: center; font: var(--body, 400 18px 'Inter', sans-serif); position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .group {position: absolute; left: 156px;top: 128px; overflow: visible;}
+ .robert-robertson-1234-nw-bobcat-lane-st-robert-ny-65584-5678 {color: #5caaab; text-align: left; font: 700 12px 'Inter', sans-serif; position: absolute; left: 26px;top: 190px; width: 336px; height: 18px; display: flex;align-items: center;justify-content: flex-start}
+ .rectangle-68 {background: #076666; border-radius: 16px; width: 57px; height: 31px; position: absolute; left: 26px;top: 299px;}
+ .food {color: #ffffff; text-align: center; font: 700 12px 'Inter', sans-serif; position: absolute; left: 40px;top: 305px; width: 30px; height: 17px; display: flex;align-items: center;justify-content: center}
+ .myrtle-mora {color: #000000; text-align: center; font: 700 14px 'Inter', sans-serif; position: absolute; left: 91px;top: 409px; width: 89px; height: 17px; display: flex;align-items: center;justify-content: center}
+ .john-ramos {color: #000000; text-align: left; font: 700 14px 'Inter', sans-serif; position: absolute; left: 94px;top: 460px; width: 86px; height: 18px; display: flex;align-items: center;justify-content: flex-start}
+ .dina-lee {color: #000000; text-align: left; font: 700 14px 'Inter', sans-serif; position: absolute; left: 94px;top: 514px; width: 74px; height: 17px; display: flex;align-items: center;justify-content: flex-start}
+ .rectangle-69 {background: #076666; border-radius: 16px; width: 111px; height: 32px; position: absolute; left: 91px;top: 298px;}
+ .transportation {color: #ffffff; text-align: center; font: 700 12px 'Inter', sans-serif; position: absolute; left: 103px;top: 305px; width: 88px; height: 18px; display: flex;align-items: center;justify-content: center}
+ .only-display-city-and-state-publicly {color: #000000; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 55px;top: 229px; width: 254px; height: 10px; display: flex;align-items: center;justify-content: flex-start}
+ .hi-i-m-myrtle-it-would-be-of-great-help-to-me {color: #000000; text-align: left; font: 300 9px 'Inter', sans-serif; position: absolute; left: 94px;top: 430px; width: 254px; height: 10px; display: flex;align-items: center;justify-content: flex-start}
+ .amelia-if-it-s-possible-i-would-like-to-request {color: #000000; text-align: left; font: 300 9px 'Inter', sans-serif; position: absolute; left: 94px;top: 481px; width: 254px; height: 10px; display: flex;align-items: center;justify-content: flex-start}
+ .may-i-ask-if-this-is-still-available {color: #000000; text-align: left; font: 300 9px 'Inter', sans-serif; position: absolute; left: 94px;top: 535px; width: 254px; height: 10px; display: flex;align-items: center;justify-content: flex-start}
+ .rectangle-682 {background: #f5f5f5; border-style: solid; border-color: #adadad; border-width: 1px; width: 15px; height: 15px; position: absolute; left: 26px;top: 226px;}
+ .line-1 {border-style: solid; border-color: #5caaab; border-width: 0.25px 0 0 0; width: 339px; height: 0px; position: absolute; left: 28px;top: 454px; transform-origin: 0 0; transform: rotate(-0.169deg) scale(1, 1);}
+ .line-3 {border-style: solid; border-color: #5caaab; border-width: 0.25px 0 0 0; width: 341px; height: 0px; position: absolute; left: 26px;top: 505px; transform-origin: 0 0; transform: rotate(-0.169deg) scale(1, 1);}
+ .ellipse-7 {background: linear-gradient(to left, #a4bcd8, #a4bcd8); border-radius: 50%; width: 38px; height: 38px; position: absolute; left: 37px;top: 407px;}
+ .ellipse-8 {background: linear-gradient(to left, #a4bcd8, #a4bcd8); border-radius: 50%; width: 38px; height: 38px; position: absolute; left: 37px;top: 458px;}
+ .ellipse-9 {background: linear-gradient(to left, #a4bcd8, #a4bcd8); border-radius: 50%; width: 38px; height: 38px; position: absolute; left: 37px;top: 514px;}
+ .ellipse-72 {background: linear-gradient(to left, #a4bcd8, #a4bcd8); border-radius: 50%; width: 88px; height: 88px; position: absolute; left: 28px;top: 79px;}
+ .chat2 {position: absolute; left: 306px;top: 420px; overflow: visible;}
+ .chat3 {position: absolute; left: 306px;top: 473px; overflow: visible;}
+ .chat4 {position: absolute; left: 306px;top: 523px; overflow: visible;}
+ .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
+ .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
+ .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
