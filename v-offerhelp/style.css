@@ -1,0 +1,45 @@
+.i-want-to-help, .i-want-to-help * { box-sizing: border-box; }.i-want-to-help {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
+ .nav-bar {background: #ffffff; display: flex; flex-direction: column; gap: 0px; align-items: flex-start; justify-content: flex-start; height: 78px; position: absolute; left: 0px;top: 774px;}
+ .vector-1 {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-1 {flex-shrink: 0; width: 393px; height: 78px; position: static;}
+ .nav-bar2 {width: 393px; height: 78px; position: absolute; left: 0px;top: 0px;}
+ .nav-bar3 {width: 393px; height: 77px; position: absolute; left: 0px;top: 0px;}
+ .home {position: absolute; left: 42px;top: 28px; overflow: visible;}
+ .map {position: absolute; left: 140px;top: 27px; overflow: visible;}
+ .chat {position: absolute; left: 231px;top: 27px; overflow: visible;}
+ .profile {position: absolute; left: 331px;top: 27px; overflow: visible;}
+ .choose-category {color: #000000; text-align: center; font: 700 25px 'DM Sans', sans-serif; position: absolute; left: 24px;top: 95px; display: flex;align-items: center;justify-content: center}
+ .details {color: #000000; text-align: left; font: var(--h-2, 400 24px 'DM Sans', sans-serif); position: absolute; left: 24px;top: 293px;}
+ .location {color: #000000; text-align: left; font: 400 24px 'DM Sans', sans-serif; position: absolute; left: 24px;top: 442px;}
+ .rectangle-75 {border-radius: 0px; position: absolute; left: 244px;top: 254px; overflow: visible;}
+ .button {background: #ffffff; border-radius: 10px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 346px; height: 45px; position: absolute; left: 8px;top: 141px;}
+ .i-want-help {color: #000000; text-align: left; font: 500 18px 'Inter', sans-serif; position: relative; flex: 1; display: flex;align-items: center;justify-content: flex-start}
+ .button2 {background: #5caaab; border-radius: 10px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 346px; height: 45px; position: absolute; left: 22px;top: 698px;}
+ .i-want-help2 {color: var(--others-white, #ffffff); text-align: center; font: var(--body, 400 18px 'Inter', sans-serif); position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .street {color: #000000; text-align: left; font: var(--body, 400 18px 'Inter', sans-serif); position: absolute; left: 25px;top: 481px; width: 76px; height: 16px; display: flex;align-items: center;justify-content: flex-start}
+ .city {color: #000000; text-align: left; font: var(--body, 400 18px 'Inter', sans-serif); position: absolute; left: 24px;top: 545px; width: 76px; height: 16px; display: flex;align-items: center;justify-content: flex-start}
+ .only-display-city-and-state-publicly {color: #000000; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 57px;top: 653px; width: 254px; height: 10px; display: flex;align-items: center;justify-content: flex-start}
+ .state {color: #000000; text-align: left; font: var(--body, 400 18px 'Inter', sans-serif); position: absolute; left: 206px;top: 545px; width: 76px; height: 16px; display: flex;align-items: center;justify-content: flex-start}
+ .housing {color: #076666; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 56px;top: 202px; width: 91px; height: 11px; display: flex;align-items: center;justify-content: flex-start}
+ .food-water {color: #076666; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 56px;top: 230px; width: 91px; height: 11px; display: flex;align-items: center;justify-content: flex-start}
+ .transportation {color: #076666; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 216px;top: 202px; width: 108px; height: 11px; display: flex;align-items: center;justify-content: flex-start}
+ .clothes {color: #076666; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 216px;top: 230px; width: 91px; height: 11px; display: flex;align-items: center;justify-content: flex-start}
+ .medicine {color: #076666; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 56px;top: 258px; width: 91px; height: 11px; display: flex;align-items: center;justify-content: flex-start}
+ .others {color: #076666; text-align: left; font: 400 14px 'Inter', sans-serif; position: absolute; left: 189px;top: 258px; width: 87px; height: 12px; display: flex;align-items: center;justify-content: flex-start}
+ .ellipse-9 {background: #d43a3a; border-radius: 50%; width: 12px; height: 12px; position: absolute; left: -424px;top: 185px;}
+ .ellipse-8 {background: #5caaab; border-radius: 50%; width: 30px; height: 30px; position: absolute; left: -445px;top: 224px;}
+ .rectangle {width: 23px; height: 23px; position: absolute; left: 24px;top: 196px;}
+ .rectangle2 {border-radius: 8px; border-style: solid; border-color: #376a6d; border-width: 2px; width: 23px; height: 23px; position: absolute; left: 0px;top: 0px;}
+ .rectangle3 {width: 23px; height: 23px; position: absolute; left: 189px;top: 196px;}
+ .rectangle4 {width: 23px; height: 23px; position: absolute; left: 189px;top: 224px;}
+ .rectangle5 {width: 23px; height: 23px; position: absolute; left: 24px;top: 224px;}
+ .rectangle6 {width: 23px; height: 23px; position: absolute; left: 24px;top: 253px;}
+ .rectangle-65 {width: 336px; height: 94px; position: absolute; left: 25px;top: 332px;}
+ .rectangle-64 {background: #f5f5f5; border-radius: 5px; width: 336px; height: 94px; position: absolute; left: 0px;top: 0px;}
+ .rectangle-652 {position: absolute; left: 25px;top: 505px; overflow: visible;}
+ .rectangle-66 {position: absolute; left: 24px;top: 569px; overflow: visible;}
+ .rectangle-67 {position: absolute; left: 207px;top: 569px; overflow: visible;}
+ .rectangle7 {width: 23px; height: 23px; position: absolute; left: 24px;top: 646px;}
+ .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
+ .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
+ .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
