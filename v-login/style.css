@@ -1,0 +1,13 @@
+.immerge, .immerge * { box-sizing: border-box; }.immerge {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
+ .immerge2 {color: #000000; text-align: center; font: 700 48px 'DM Sans', sans-serif; position: absolute; left: 102px;top: 332px; display: flex;align-items: center;justify-content: center}
+ .button {background: #5caaab; border-radius: 16px; padding: 18px 16px 18px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; width: 345px; position: absolute; left: 24px;top: 691px;}
+ .button2 {color: var(--others-white, #ffffff); text-align: center; font: var(--body-2, 400 13px 'Inter', sans-serif); position: relative; flex: 1; display: flex;align-items: center;justify-content: center}
+ .logo-1 {width: 257px; height: 267px; position: absolute; left: 76px;top: 84px;}
+ .rectangle-64 {background: #ffffff; border-radius: 16px; border-style: solid; border-color: #5caaab; border-width: 1px; width: 345px; height: 61px; position: absolute; left: 24px;top: 606px;}
+ .rectangle-65 {background: #ffffff; border-radius: 16px; border-style: solid; border-color: #5caaab; border-width: 1px; width: 345px; height: 61px; position: absolute; left: 24px;top: 509px;}
+ .email {color: #000000; text-align: left; font: 400 16px 'Inter', sans-serif; position: absolute; left: 24px;top: 480px; width: 56px; height: 23px; display: flex;align-items: center;justify-content: flex-start}
+ .password {color: #000000; text-align: center; font: 400 16px 'Inter', sans-serif; position: absolute; left: 22px;top: 576px; width: 78px; height: 24px; display: flex;align-items: center;justify-content: center}
+ .for-volunteers {color: #000000; text-align: center; font: 400 20px/140% 'Urbanist', sans-serif; position: absolute; left: 123px;top: 379px; width: 155px; height: 74px; display: flex;align-items: center;justify-content: center}
+ .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
+ .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
+ .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
