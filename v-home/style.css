@@ -1,0 +1,48 @@
+.home-for-volunteers, .home-for-volunteers * { box-sizing: border-box; }.home-for-volunteers {background: #ffffff; width: 393px; height: 852px; position: relative; overflow: hidden;}
+ .ellipse-11 {background: #5caaab; border-radius: 50%; width: 27px; height: 27px; position: absolute; left: 25px;top: 198px;}
+ .ellipse-12 {background: #d43a3a; border-radius: 50%; width: 8px; height: 8px; position: absolute; left: 45px;top: 198px;}
+ .nav-bar {background: #ffffff; display: flex; flex-direction: column; gap: 0px; align-items: flex-start; justify-content: flex-start; height: 78px; position: absolute; left: 0px;top: 774px;}
+ .vector-1 {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-1 {flex-shrink: 0; width: 393px; height: 78px; position: static;}
+ .nav-bar2 {width: 393px; height: 78px; position: absolute; left: 0px;top: 0px;}
+ .nav-bar3 {width: 393px; height: 77px; position: absolute; left: 0px;top: 0px;}
+ .home {position: absolute; left: 42px;top: 28px; overflow: visible;}
+ .map {position: absolute; left: 140px;top: 27px; overflow: visible;}
+ .chat {position: absolute; left: 231px;top: 27px; overflow: visible;}
+ .profile {position: absolute; left: 331px;top: 27px; overflow: visible;}
+ .hello-amelia {color: #000000; text-align: left; font: 700 35px 'DM Sans', sans-serif; position: absolute; left: 23px;top: 91px; width: 228px; height: 45px; display: flex;align-items: center;justify-content: flex-start}
+ .today-s-dashboard {color: #000000; text-align: center; font: 400 24px 'DM Sans', sans-serif; position: absolute; left: 24px;top: 136px; display: flex;align-items: center;justify-content: center}
+ .statistics {color: #000000; text-align: left; font: 400 18px 'Inter', sans-serif; position: absolute; left: 24px;top: 248px; width: 79px; height: 21px;}
+ .rectangle-64 {background: #076666; border-radius: 10px; width: 344px; height: 56px; position: absolute; left: 25px;top: 285px;}
+ .this-month {color: #ffffff; text-align: left; font: 500 14px 'Inter', sans-serif; position: absolute; left: 85px;top: 313px; width: 109px; height: 12px; display: flex;align-items: center;justify-content: flex-start}
+ .refugees-helped {color: #ffffff; text-align: left; font: 500 10px 'Inter', sans-serif; position: absolute; left: 85px;top: 298px; width: 109px; height: 12px; display: flex;align-items: center;justify-content: flex-start}
+ .this-year {color: #ffffff; text-align: left; font: 500 14px 'Inter', sans-serif; position: absolute; left: 252px;top: 313px; width: 109px; height: 12px; display: flex;align-items: center;justify-content: flex-start}
+ .refugees-helped2 {color: #ffffff; text-align: left; font: 500 10px 'Inter', sans-serif; position: absolute; left: 252px;top: 298px; width: 109px; height: 12px; display: flex;align-items: center;justify-content: flex-start}
+ ._9 {color: #cef5f5; text-align: center; font: 700 32px/30px 'Inter', sans-serif; position: absolute; left: 25px;top: 304px; width: 76px; height: 16px; display: flex;align-items: center;justify-content: center}
+ ._25 {color: #cef5f5; text-align: center; font: 700 32px/30px 'Inter', sans-serif; position: absolute; left: 188px;top: 305px; width: 76px; height: 16px; display: flex;align-items: center;justify-content: center}
+ .rectangle-76 {background: #f5f5f5; border-radius: 10px; width: 162px; height: 162px; position: absolute; left: 27px;top: 400px;}
+ .rectangle-78 {background: #f5f5f5; border-radius: 10px; width: 162px; height: 162px; position: absolute; left: 27px;top: 578px;}
+ .rectangle-77 {background: #f5f5f5; border-radius: 10px; width: 162px; height: 162px; position: absolute; left: 208px;top: 400px;}
+ .rectangle-79 {background: #f5f5f5; border-radius: 10px; width: 162px; height: 162px; position: absolute; left: 208px;top: 578px;}
+ .frame-20 {display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: flex-start; position: absolute; left: 64px;top: 433px;}
+ .mdi-help-outline {flex-shrink: 0; position: relative; overflow: visible;}
+ .offer-help {color: #076666; text-align: left; font: 400 18px 'Inter', sans-serif; position: relative;}
+ .frame-21 {display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: flex-start; position: absolute; left: 231px;top: 429px;}
+ .ic-round-work-outline {flex-shrink: 0; position: relative; overflow: visible;}
+ .list-job-offer {color: #076666; text-align: left; font: 400 18px 'Inter', sans-serif; position: relative;}
+ .frame-22 {display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: flex-start; width: 117px; position: absolute; left: 51px;top: 614px;}
+ .eva-list-fill {flex-shrink: 0; width: 57px; height: 65px; position: relative;}
+ .eva-list-fill-0 {position: absolute; inset: 0;}
+ .eva-list-fill-1 {width: 42.75px; height: 32.5px; position: static;}
+ .eva-list-fill-2 {position: absolute; left: 7.12px;top: 16.25px; overflow: visible;}
+ .view-listings {color: #076666; text-align: center; font: 400 18px 'Inter', sans-serif; position: relative; width: 117px;}
+ .frame-23 {display: flex; flex-direction: column; gap: 5px; align-items: center; justify-content: flex-start; position: absolute; left: 239px;top: 614px;}
+ .healthicons-forum {flex-shrink: 0; width: 76px; height: 68px; position: relative; overflow: hidden;}
+ .group {position: absolute; left: 6.33px;top: 14.17px; overflow: visible;}
+ .view-forum {color: #076666; text-align: left; font: 400 18px 'Inter', sans-serif; position: relative;}
+ .other-tools {color: #000000; text-align: left; font: 400 18px 'Inter', sans-serif; position: absolute; left: 24px;top: 362px;}
+ ._2 {color: #ffffff; text-align: center; font: 700 20px/30px 'Inter', sans-serif; position: absolute; left: 1px;top: 204px; width: 76px; height: 16px; display: flex;align-items: center;justify-content: center}
+ .pending-requests {color: #000000; text-align: center; font: 400 12px 'Inter', sans-serif; position: absolute; left: 59px;top: 204px; width: 112px; height: 16px; display: flex;align-items: center;justify-content: center}
+ .home-indicator {background: #000000; border-radius: 100px; width: 134px; height: 5px; position: sticky; left: 130px;top: 838px;}
+ .dynamic-island {background: #000000; border-radius: 19px; width: 126px; height: 37px; position: sticky; left: 132px;top: 10px;}
+ .status-bar {position: sticky; left: 55px;top: 21.78px; overflow: visible;}
